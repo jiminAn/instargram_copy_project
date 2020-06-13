@@ -5,7 +5,7 @@
 
 
 ![이미지](./app_explain/1.jpeg)
-![이미지](./app_explain/2.jpeg)
+![이미지](./app_explain/2.png)
 ![이미지](./app_explain/3.jpeg)
 ![이미지](./app_explain/4.jpeg)
 
