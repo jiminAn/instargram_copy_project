@@ -8,7 +8,7 @@
 
 **팀원**
 
-- [jiminAn(안지민)](https://github.com/jiminAn)
+- [jiminAn(안지민)](https://github.com/jiminAn) &#128081;팀장
 - [sja3410(안선정)](https://github.com/sja3410)
 - [Rudy-009(이승준)](https://github.com/Rudy-009)
 - [yoonho0922(안윤호)](https://github.com/yoonho0922)
